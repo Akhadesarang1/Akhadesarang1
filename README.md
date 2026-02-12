@@ -1,124 +1,178 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Rohith;AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Systems;Shipping+AI+to+Production" />
+---
+
+# <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Akhade+Sarang;AI+Engineer+%7C+Full+Stack+Developer;Designing+Intelligent+Systems;Engineering+Scalable+AI+for+Production" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-I design and deploy **AI-powered systems** that move beyond experimentation and into real-world production.
+### <a href="https://www.linkedin.com/in/sarang-akhade-72a846272/" target="_blank">🔗 LinkedIn</a>  |  <a href="https://sarangs-portfolio.onrender.com/" target="_blank">🌐 Portfolio</a>
 
-My work operates at the intersection of:
-
-> 🤖 Artificial Intelligence  
-> ⚙ Full Stack Engineering  
-> 🧠 System Architecture  
-
-From deep learning pipelines to scalable microservices,  
-I focus on building systems that are modular, production-ready, and engineered with clarity.
-
-I don’t just train models.  
-I ship intelligence.
+</div>
 
 ---
 
-## 🧠 Featured Projects
+## ⚡ About Me
 
-### 🌿 SPCL — Smart Plant Care & Learning System
-AI-driven plant disease detection & multilingual treatment platform.
+I design, engineer, and deliver **AI-native systems** that move beyond experimentation and into **real-world, production-ready environments**.
 
-- CNN-based image classification (TensorFlow)
-- Flask AI inference microservice
-- MERN stack integration
-- Cross-validation training pipeline
-- Real-world deployment architecture
+My work sits at the intersection of:
 
----
+* Artificial Intelligence
+* Full Stack Engineering
+* Distributed System Architecture
 
-### 📄 DocuAgent — AI Documentation Engine
-Automated code-to-document generation powered by LLMs.
+I build systems where **deep learning meets scalable infrastructure**, ensuring clarity, modularity, and performance throughout the pipeline.
 
-- AI-generated Markdown via Gemini
-- Code parsing with Esprima
-- Automated PDF / DOCX generation
-- UML diagram generation (PlantUML)
-- Multi-service Flask + Express architecture
+I don’t just train models —
+**I operationalize intelligence.**
 
 ---
 
-### 🧩 AI Chrome Extension
-Productivity-focused AI browser extension.
-
-- Content summarization
-- Font & UI detection
-- Live LLM API integration
-- Real-time processing pipeline
+## 📌 Featured Projects
 
 ---
 
-## 🛠 Tech Stack
+### **🌿 LeafGuard – Plant Disease Detection**
 
-### 👨‍💻 Frontend
-<p align="center">
+**CNN-based deep learning system for agricultural plant health analysis**
+
+* TensorFlow-based disease classification
+* 95% model accuracy
+* Real-time leaf analysis pipeline
+* AI-driven treatment recommendations
+* Integrated cure, resource, and remedy links
+* Deployed with MERN + Python microservices
+
+---
+
+### **🩺 MEDISCOPE – Medical Interpretation Platform**
+
+**AI-powered clinical analysis integrating image models + LLM reasoning**
+
+* X-ray anomaly detection (TensorFlow CNN)
+* Lab report OCR + structured interpretation
+* Gemini-powered medical reasoning interface
+* Full MERN gateway with Python inference services
+* Low-latency real-time processing
+
+---
+
+### **📉 financial_sentiment_trainer – Financial NLP System**
+
+**Multilingual financial sentiment classifier using transformers**
+
+* XLM-RoBERTa custom fine-tuning
+* Trained on a 14k financial sentence dataset
+* 5-Fold Cross Validation
+* Benchmarked using MAE, R², Accuracy
+* TensorFlow-based training pipeline
+* Deployable financial NLP subsystem
+
+---
+
+### **🛰 ORION – Sovereign AI Operating Layer**
+
+**Authority-rooted AI operating framework for controlled execution**
+
+* Agentic reasoning orchestration
+* RAG-based memory integration
+* Modular inference architecture
+* Defense-kernel-integrated security
+* Controlled execution + system governance layer
+
+---
+
+### **📄 DocuAgent – AI Documentation Automation Platform**
+
+* AI-driven report and slide generation
+* Code parsing (Esprima) + LLM structured synthesis
+* PDF, DOCX, PPTX output automation
+* PlantUML diagram generation
+* MERN + multi-service backend
+* Designed for enterprise code-to-doc workflows
+
+---
+
+### **🗂 Employee Management System (MERN + Auth)**
+
+* Role-based access with JWT authentication
+* Robust REST API design
+* Scalable MongoDB schema
+* Real-time task lifecycle management
+
+---
+
+## 🛠 Technical Skillset
+
+### **Frontend**
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js" />
-</p>
+</div>
 
 ---
 
-### ⚙ Backend
-<p align="center">
+### **Backend**
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python" />
-</p>
+</div>
 
 ---
 
-### 🤖 AI / ML
-<p align="center">
+### **AI / Machine Learning**
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="50" height="50"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="50"/>
+</div>
 
-- CNN Architectures  
-- NLP Systems  
-- Prompt Engineering (Gemini / OpenAI)  
-- Model Serving & Inference APIs  
+* CNN Architectures
+* LLM System Integration
+* NLP Pipelines
+* Model Serving & Distributed Inference
 
 ---
 
-### ☁ Cloud & DevOps
-<p align="center">
+### **Cloud & DevOps**
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=docker,gcp,github" />
-</p>
+</div>
 
-- Dockerized microservices  
-- GCP deployment experiments  
-- REST API architecture  
-- Modular service orchestration  
+* Containerized AI microservices
+* REST-based AI deployment
+* Scalable architecture design
 
 ---
 
-### 🗄 Databases
-<p align="center">
+### **Databases**
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+</div>
 
 ---
 
-## 🧩 Engineering Philosophy
+## 🧩 Engineering Principles
 
-I build systems with:
+I follow a **production-first engineering philosophy**, focusing on:
 
-- Clear separation of concerns  
-- AI microservice isolation  
-- Scalable API layers  
-- Production-first thinking  
-- Modular reasoning pipelines  
+* Modular microservice isolation
+* Scalable API layers
+* Clean separation of concerns
+* Deterministic reasoning pipelines
+* Robust system orchestration
 
-Depth over noise.  
-Clarity over hype.  
-Execution over ideas.
+No noise.
+No unnecessary complexity.
+Only **clarity, performance, and reliability**.
 
 ---
 
@@ -126,8 +180,8 @@ Execution over ideas.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akhadesarang1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhadesarang1&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akhadesarang1&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhadesarang1&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
@@ -136,33 +190,39 @@ Execution over ideas.
 ## 📈 Contribution Graph
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhadesarang1&theme=tokyo-night&hide_border=true"/>
-
 </div>
+
+---
+
+## 💼 Professional Experience
+
+### **Software Developer Intern – Prisms Communications**
+
+📍 Pune, Maharashtra, India
+🗓 Jan 2026 – Present (On-site)
+
+* Working on production-grade software stacks
+* Building scalable modules & interfaces
+* Integrating backend systems with AI components
+* Delivering high-performance engineering solutions
 
 ---
 
 ## 🎯 Current Focus
 
-- AI-native applications  
-- Scalable LLM + CNN deployments  
-- Local AI infrastructure experiments  
-- Intelligent automation systems  
-
----
-
-## 🤝 Open To
-
-AI / ML Roles  
-Full Stack Development  
-System Architecture Projects  
-High-impact technical collaborations  
+* AI-native application development
+* LLM + CNN hybrid systems
+* Intelligent microservice orchestration
+* Local AI compute infrastructure
+* High-reliability model deployment
 
 ---
 
 <div align="center">
 
-### ⚡ Let’s build systems that think.
+## **Let us build systems that think — and deliver.**
 
 </div>
+
+---
