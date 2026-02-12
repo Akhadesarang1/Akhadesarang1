@@ -14,7 +14,15 @@
 ### <a href="https://www.linkedin.com/in/sarang-akhade-72a846272/" target="_blank">🔗 LinkedIn</a>  |  <a href="https://sarangs-portfolio.onrender.com/" target="_blank">🌐 Portfolio</a>
 
 </div>
-
+<p align="center">
+  <a href="mailto:akhadesarang1036@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Professional_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+ 
+  <a href="https://sarangs-portfolio.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  </a>
+</p>
 ---
 
 ## ⚡ About Me
