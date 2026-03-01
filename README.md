@@ -108,9 +108,7 @@ Engineer specializing in **scalable AI-integrated platforms** and **intelligent 
 
 ## 📊 Objective Analytics
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarang-2809&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3" alt="GitHub Activity Graph" width="80%"/>
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akhadesarang1&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhadesarang1&theme=tokyonight&hide_border=true" height="170" /> </div>
   <br><br>
   <p><b><i>Engineering Intelligence. Deploying Impact.</i></b></p>
 </div>
