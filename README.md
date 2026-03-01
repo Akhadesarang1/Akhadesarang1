@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,25&height=180&section=header&text=sarang%20Vittamraj&fontSize=70&fontAlignY=35&desc=AI%20Systems%20Architect%20%7C%20Production%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=20" alt="sarang Vittamraj"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,25&height=180&section=header&text=sarang%20Akhade&fontSize=70&fontAlignY=35&desc=AI%20Systems%20Architect%20%7C%20Production%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=20" alt="sarang Akhade"/>
 
   <p align="center">
     <a href="mailto:akhadesarang1036@gmail.com">
