@@ -1,237 +1,116 @@
-
----
-
-# <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Akhade+Sarang;AI+Engineer+%7C+Full+Stack+Developer;Designing+Intelligent+Systems;Engineering+Scalable+AI+for+Production" />
-
-</div>
-
----
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,25&height=180&section=header&text=sarang%20Vittamraj&fontSize=70&fontAlignY=35&desc=AI%20Systems%20Architect%20%7C%20Production%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=20" alt="sarang Vittamraj"/>
 
-### <a href="https://www.linkedin.com/in/sarang-akhade-72a846272/" target="_blank">🔗 LinkedIn</a>  |  <a href="https://sarangs-portfolio.onrender.com/" target="_blank">🌐 Portfolio</a>
-
+  <p align="center">
+    <a href="mailto:akhadesarang1036@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Professional_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/sarang-akhade-72a846272/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://sarangs-portfolio.onrender.com">
+      <img src="https://img.shields.io/badge/Portfolio-Live-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+    </a>
+  </p>
 </div>
-<p align="center">
-  <a href="mailto:akhadesarang1036@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Professional_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
- 
-  <a href="https://sarangs-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  </a>
+
+---
+
+## 🎯 Professional Overview
+
+Engineer specializing in **scalable AI-integrated platforms** and **intelligent system architecture**. I focus on bridging the gap between cutting-edge machine learning research and robust, enterprise-grade production environments.
+
+**My engineering philosophy focuses on building systems where:**
+- ⚙️ Machine Learning seamlessly meets production reliability.
+- 🧠 Large Language Models (LLMs) integrate deeply with structured, deterministic reasoning pipelines.
+- 🏗️ Backend microservices scale gracefully under real-world computational constraints.
+- 🚀 AI models transition fluently from localized experimentation to global deployment.
+
+> *"Building systems that are not just artificially intelligent — but demonstrably secure, autonomous, and scalable."*
+
+---
+
+## 💻 Technical Arsenal
+
+### 🧠 Applied AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-ML_Framework-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-Transformer_Ecosystem-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
----
+*   **Architectures:** CNNs, Transformer-Based NLP, RAG Architecture, LLM Agent Orchestration.
+*   **Engineering:** XLM-RoBERTa Fine-Tuning, Model Benchmarking (MAE, R², Accuracy), K-Fold Cross Validation.
 
-## ⚡ About Me
+### ⚙️ Full Stack & Systems Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,mysql" />
+</p>
 
-I design, engineer, and deliver **AI-native systems** that move beyond experimentation and into **real-world, production-ready environments**.
+*   **Backend:** RESTful API Design, Microservices Communication, Schema Optimization (NoSQL/SQL).
+*   **Security:** JWT Authentication, Role-Based Access Control (RBAC), Secure Execution Environments.
 
-My work sits at the intersection of:
+### ☁️ Infrastructure & Cloud Operations
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,git,linux,gcp" />
+  <img src="https://img.shields.io/badge/Render-Cloud_Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
 
-* Artificial Intelligence
-* Full Stack Engineering
-* Distributed System Architecture
-
-I build systems where **deep learning meets scalable infrastructure**, ensuring clarity, modularity, and performance throughout the pipeline.
-
-I don’t just train models —
-**I operationalize intelligence.**
-
----
-
-## 📌 Featured Projects
+*   **Ops:** Docker Containerization, CI/CD Pipeline Design, GCP & Render Deployment, Scalable Backend Infrastructure.
 
 ---
 
-### **🌿 LeafGuard – Plant Disease Detection**
+## 🚀 Engineered Solutions
 
-**CNN-based deep learning system for agricultural plant health analysis**
-
-* TensorFlow-based disease classification
-* 95% model accuracy
-* Real-time leaf analysis pipeline
-* AI-driven treatment recommendations
-* Integrated cure, resource, and remedy links
-* Deployed with MERN + Python microservices
-
----
-
-### **🩺 MEDISCOPE – Medical Interpretation Platform**
-
-**AI-powered clinical analysis integrating image models + LLM reasoning**
-
-* X-ray anomaly detection (TensorFlow CNN)
-* Lab report OCR + structured interpretation
-* Gemini-powered medical reasoning interface
-* Full MERN gateway with Python inference services
-* Low-latency real-time processing
-
----
-
-### **📉 financial_sentiment_trainer – Financial NLP System**
-
-**Multilingual financial sentiment classifier using transformers**
-
-* XLM-RoBERTa custom fine-tuning
-* Trained on a 14k financial sentence dataset
-* 5-Fold Cross Validation
-* Benchmarked using MAE, R², Accuracy
-* TensorFlow-based training pipeline
-* Deployable financial NLP subsystem
-
----
-
-### **🛰 ORION – Sovereign AI Operating Layer**
-
-**Authority-rooted AI operating framework for controlled execution**
-
-* Agentic reasoning orchestration
-* RAG-based memory integration
-* Modular inference architecture
-* Defense-kernel-integrated security
-* Controlled execution + system governance layer
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%">
+      <h3>🌍 ORION: Sovereign AI Operating Layer</h3>
+      <p>A completely modular, offline-capable AI kernel. Features an authority-rooted execution model, controlled system-level inference orchestration, and a secure execution framework backed by local RAG memory integration.</p>
+    </td>
+    <td width="50%">
+      <h3>⚕️ MEDISCOPE: AI Medical Platform</h3>
+      <p>A real-time processing pipeline combining X-ray anomaly detection with lab report OCR/structured parsing. Connects an LLM-based medical reasoning layer to a MERN gateway and Python inference microservices.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📈 Financial Sentiment Trainer</h3>
+      <p>A deployable NLP inference system leveraging a fine-tuned XLM-RoBERTa transformer model. Trained on a 14k multilingual dataset using 5-Fold Cross Validation and rigorous performance benchmarking.</p>
+    </td>
+    <td width="50%">
+      <h3>🌿 LeafGuard: AI Plant Guardian</h3>
+      <p>A CNN-based TensorFlow architecture achieving 95% classification accuracy for real-time plant disease detection. Outputs AI-driven treatment recommendations backed by integrated knowledge bases.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📄 DocuAgent: Automation Engine</h3>
+      <p>An automated multi-format report and presentation generation pipeline. Synthesizes structured LLM content via a highly parallelized MERN and Python microservices backend.</p>
+    </td>
+    <td width="50%">
+      <h3>🏢 Employee Management System</h3>
+      <p>A scalable organizational backend built on MongoDB. Features strict JWT-secured authentication, Role-Based Access Control (RBAC), and real-time operational task lifecycle tracking.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### **📄 DocuAgent – AI Documentation Automation Platform**
+## 🔬 Current Research & Engineering Horizons
 
-* AI-driven report and slide generation
-* Code parsing (Esprima) + LLM structured synthesis
-* PDF, DOCX, PPTX output automation
-* PlantUML diagram generation
-* MERN + multi-service backend
-* Designed for enterprise code-to-doc workflows
+*   🤖 **Agentic AI Architectures:** Engineering fully autonomous, goal-oriented reasoning frameworks.
+*   ⚡ **Production-Grade LLM Systems:** Optimizing TTFT (Time To First Token) and memory footprints for deployment.
+*   💹 **Applied Financial NLP:** Extracting deep, structured semantic data from high-noise financial streams.
+*   🛡️ **Secure AI System Design:** Building immutable, authority-managed boundaries around model execution.
 
 ---
 
-### **🗂 Employee Management System (MERN + Auth)**
-
-* Role-based access with JWT authentication
-* Robust REST API design
-* Scalable MongoDB schema
-* Real-time task lifecycle management
-
----
-
-## 🛠 Technical Skillset
-
-### **Frontend**
+## 📊 Objective Analytics
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarang-2809&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3" alt="GitHub Activity Graph" width="80%"/>
+
+  <br><br>
+  <p><b><i>Engineering Intelligence. Deploying Impact.</i></b></p>
 </div>
-
----
-
-### **Backend**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,python" />
-</div>
-
----
-
-### **AI / Machine Learning**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="50"/>
-</div>
-
-* CNN Architectures
-* LLM System Integration
-* NLP Pipelines
-* Model Serving & Distributed Inference
-
----
-
-### **Cloud & DevOps**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=docker,gcp,github" />
-</div>
-
-* Containerized AI microservices
-* REST-based AI deployment
-* Scalable architecture design
-
----
-
-### **Databases**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</div>
-
----
-
-## 🧩 Engineering Principles
-
-I follow a **production-first engineering philosophy**, focusing on:
-
-* Modular microservice isolation
-* Scalable API layers
-* Clean separation of concerns
-* Deterministic reasoning pipelines
-* Robust system orchestration
-
-No noise.
-No unnecessary complexity.
-Only **clarity, performance, and reliability**.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akhadesarang1&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhadesarang1&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhadesarang1&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
-## 💼 Professional Experience
-
-### **Software Developer Intern – Prisms Communications**
-
-📍 Pune, Maharashtra, India
-🗓 Jan 2026 – Present (On-site)
-
-* Working on production-grade software stacks
-* Building scalable modules & interfaces
-* Integrating backend systems with AI components
-* Delivering high-performance engineering solutions
-
----
-
-## 🎯 Current Focus
-
-* AI-native application development
-* LLM + CNN hybrid systems
-* Intelligent microservice orchestration
-* Local AI compute infrastructure
-* High-reliability model deployment
-
----
-
-<div align="center">
-
-## **Let us build systems that think — and deliver.**
-
-</div>
-
----
