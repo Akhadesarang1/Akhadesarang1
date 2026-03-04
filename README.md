@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,25&height=180&section=header&text=sarang%20Akhade&fontSize=70&fontAlignY=35&desc=AI%20Systems%20Architect%20%7C%20Production%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=20" alt="sarang Akhade"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,25&height=180&section=header&text=Sarang%20Akhade&fontSize=70&fontAlignY=35&desc=AI%20Systems%20Architect%20%7C%20Production%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=20" alt="Sarang Akhade"/>
 
   <p align="center">
-    <a href="mailto:akhadesarang1036@gmail.com">
+    <a href="mailto:akhadeSarang1036@gmail.com">
       <img src="https://img.shields.io/badge/Email-Professional_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/sarang-akhade-72a846272/">
+    <a href="https://www.linkedin.com/in/Sarang-akhade-72a846272/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://sarangs-portfolio.onrender.com">
+    <a href="https://Sarangs-portfolio.onrender.com">
       <img src="https://img.shields.io/badge/Portfolio-Live-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
     </a>
   </p>
@@ -108,7 +108,7 @@ Engineer specializing in **scalable AI-integrated platforms** and **intelligent 
 
 ## 📊 Objective Analytics
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akhadesarang1&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhadesarang1&theme=tokyonight&hide_border=true" height="170" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AkhadeSarang1&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhadeSarang1&theme=tokyonight&hide_border=true" height="170" /> </div>
   <br><br>
   <p><b><i>Engineering Intelligence. Deploying Impact.</i></b></p>
 </div>
