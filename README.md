@@ -16,23 +16,23 @@
 
 ---
 
-## 🎯 Professional Overview
+##  Professional Overview
 
 Engineer specializing in **scalable AI-integrated platforms** and **intelligent system architecture**. I focus on bridging the gap between cutting-edge machine learning research and robust, enterprise-grade production environments.
 
 **My engineering philosophy focuses on building systems where:**
-- ⚙️ Machine Learning seamlessly meets production reliability.
-- 🧠 Large Language Models (LLMs) integrate deeply with structured, deterministic reasoning pipelines.
-- 🏗️ Backend microservices scale gracefully under real-world computational constraints.
-- 🚀 AI models transition fluently from localized experimentation to global deployment.
+-  Machine Learning seamlessly meets production reliability.
+-  Large Language Models (LLMs) integrate deeply with structured, deterministic reasoning pipelines.
+-  Backend microservices scale gracefully under real-world computational constraints.
+-  AI models transition fluently from localized experimentation to global deployment.
 
 > *"Building systems that are not just artificially intelligent — but demonstrably secure, autonomous, and scalable."*
 
 ---
 
-## 💻 Technical Arsenal
+##  Technical Arsenal
 
-### 🧠 Applied AI & Machine Learning
+###  Applied AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   <img src="https://img.shields.io/badge/scikit--learn-ML_Framework-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -50,7 +50,7 @@ Engineer specializing in **scalable AI-integrated platforms** and **intelligent 
 *   **Backend:** RESTful API Design, Microservices Communication, Schema Optimization (NoSQL/SQL).
 *   **Security:** JWT Authentication, Role-Based Access Control (RBAC), Secure Execution Environments.
 
-### ☁️ Infrastructure & Cloud Operations
+###  Infrastructure & Cloud Operations
 <p>
   <img src="https://skillicons.dev/icons?i=docker,fastapi,git,linux,gcp" />
   <img src="https://img.shields.io/badge/Render-Cloud_Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
@@ -60,22 +60,22 @@ Engineer specializing in **scalable AI-integrated platforms** and **intelligent 
 
 ---
 
-## 🚀 Engineered Solutions
+##  Engineered Solutions
 
 <table bordercolor="#30363d">
   <tr>
     <td width="50%">
-      <h3>🌍 ORION: Sovereign AI Operating Layer</h3>
+      <h3> ORION: Sovereign AI Operating Layer</h3>
       <p>A completely modular, offline-capable AI kernel. Features an authority-rooted execution model, controlled system-level inference orchestration, and a secure execution framework backed by local RAG memory integration.</p>
     </td>
     <td width="50%">
-      <h3>⚕️ MEDISCOPE: AI Medical Platform</h3>
+      <h3> MEDISCOPE: AI Medical Platform</h3>
       <p>A real-time processing pipeline combining X-ray anomaly detection with lab report OCR/structured parsing. Connects an LLM-based medical reasoning layer to a MERN gateway and Python inference microservices.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📈 Financial Sentiment Trainer</h3>
+      <h3> Financial Sentiment Trainer</h3>
       <p>A deployable NLP inference system leveraging a fine-tuned XLM-RoBERTa transformer model. Trained on a 14k multilingual dataset using 5-Fold Cross Validation and rigorous performance benchmarking.</p>
     </td>
     <td width="50%">
@@ -99,14 +99,14 @@ Engineer specializing in **scalable AI-integrated platforms** and **intelligent 
 
 ## 🔬 Current Research & Engineering Horizons
 
-*   🤖 **Agentic AI Architectures:** Engineering fully autonomous, goal-oriented reasoning frameworks.
-*   ⚡ **Production-Grade LLM Systems:** Optimizing TTFT (Time To First Token) and memory footprints for deployment.
-*   💹 **Applied Financial NLP:** Extracting deep, structured semantic data from high-noise financial streams.
-*   🛡️ **Secure AI System Design:** Building immutable, authority-managed boundaries around model execution.
+*    **Agentic AI Architectures:** Engineering fully autonomous, goal-oriented reasoning frameworks.
+*    **Production-Grade LLM Systems:** Optimizing TTFT (Time To First Token) and memory footprints for deployment.
+*    **Applied Financial NLP:** Extracting deep, structured semantic data from high-noise financial streams.
+*    **Secure AI System Design:** Building immutable, authority-managed boundaries around model execution.
 
 ---
 
-## 📊 Objective Analytics
+##  Objective Analytics
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AkhadeSarang1&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhadeSarang1&theme=tokyonight&hide_border=true" height="170" /> </div>
   <br><br>
